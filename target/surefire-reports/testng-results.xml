@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8041" started-at="2017-06-17T03:50:18Z" finished-at="2017-06-17T03:50:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8041" started-at="2017-06-17T03:50:18Z" finished-at="2017-06-17T03:50:26Z">
+      <class name="org.deathstar.test.smoke.TestLoginUS015">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.deathstar.test.smoke.TestLoginUS015@6a5fc7f7]" name="setUp" is-config="true" duration-ms="5721" started-at="2017-06-17T09:20:18Z" finished-at="2017-06-17T09:20:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginValidTC051()[pri:0, instance:org.deathstar.test.smoke.TestLoginUS015@6a5fc7f7]" name="testLoginValidTC051" duration-ms="2030" started-at="2017-06-17T09:20:23Z" finished-at="2017-06-17T09:20:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginValidTC051 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.deathstar.test.smoke.TestLoginUS015@6a5fc7f7]" name="tearDown" is-config="true" duration-ms="280" started-at="2017-06-17T09:20:25Z" finished-at="2017-06-17T09:20:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.deathstar.test.smoke.TestLoginUS015 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
